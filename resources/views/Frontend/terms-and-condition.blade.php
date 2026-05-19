@@ -13,7 +13,7 @@
             <div class="row align-items-center">
                 <div class="col-lg-4 m-auto">
                     <div class="hero-main-area heading1 text-center">
-                        <h1 class="text-anime-style-3">Terms And Condtions</h1>
+                        <h1 class="text-anime-style-3" style="font-size: 40px;">Terms & Condtions</h1>
                         <a href="/">Home <i class="fa-solid fa-angle-right"></i> <span>Terms And
                                 Condtions</span></a>
                     </div>

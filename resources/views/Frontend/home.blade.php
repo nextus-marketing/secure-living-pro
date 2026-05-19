@@ -17,7 +17,7 @@
                             <p>Monitor your home and business anytime with smart security systems designed for complete
                                 safety and peace of mind.</p>
                             <div class="btn-area">
-                                <a href="#0" class="header-btn4">Contact Now <i
+                                <a href="tel:+1234567890" class="header-btn4">Contact Now <i
                                         class="fa-solid fa-arrow-right"></i></a>
                             </div>
                             <div class="header-bottom-images">
@@ -78,7 +78,7 @@
 
                         <h2 class="text-anime-style-3">
                             Smart Protection for Modern Living
-                            <br class="d-lg-block d-none"> For Every Home
+                            For Every Home
                         </h2>
 
                         <p data-aos="fade-left" data-aos-duration="1000" data-aos-delay="400">
@@ -126,7 +126,7 @@
                         </div>
 
                         <div class="btn-area" data-aos="fade-left" data-aos-duration="1300" data-aos-delay="500">
-                            <a href="#contact" class="header-btn4">
+                            <a href="tel:+1234567890" class="header-btn4">
                                 Call To Security Expert
                                 <i class="fa-solid fa-arrow-right"></i>
                             </a>
@@ -309,7 +309,7 @@
                         <h5 data-aos="fade-left" data-aos-duration="800" data-aos-delay="600" data-aos-offset="40">
                             <img src="/frontend/assets/img/icons/finger1.svg" alt="">Our Projects
                         </h5>
-                        <h2 class="text-anime-style-3">Stories Hear From Our Clients</h2>
+                        <h2 class="text-anime-style-3" style="font-size: 30px;">Stories Hear From Our Clients</h2>
                         <p data-aos="fade-left" data-aos-duration="800" data-aos-delay="600" data-aos-offset="40">
                             Crafting an engaging paragraph to showcase testimonials on your security and CCTV landing
                             page can help build trust and credibility</p>

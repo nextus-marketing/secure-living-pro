@@ -103,7 +103,7 @@
                                 </ul>
                             </div>
                             <div class="btn-area">
-                                <a href="/#contact" class="header-btn4">Contact Us<span><i
+                                <a href="tel:+1234567890" class="header-btn4">Contact Us<span><i
                                             class="fa-solid fa-arrow-right"></i></span></a>
                             </div>
                         </div>
