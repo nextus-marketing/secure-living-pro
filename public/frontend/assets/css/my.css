@@ -1,0 +1,14 @@
+.footer-policy li a {
+    text-decoration: none;
+    color: black;
+}
+
+.footer-policy li a:hover {
+    color: orange;
+}
+
+.carousel-area .hero3-section-area {
+    position: relative;
+    z-index: 1;
+    padding: 190px 0 130px;
+}
