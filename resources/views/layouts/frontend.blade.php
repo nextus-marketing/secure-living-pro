@@ -31,6 +31,39 @@
 
 <body class="homepage3-body">
 
+ <!-- Call Now Floating Button -->
+    <a href="tel:+18553000098" class="call-float">
+        <i class="fa-solid fa-phone"></i>
+    </a>
+
+<style>
+        .call-float {
+            position: fixed;
+            bottom: 20px;
+            right: 20px;
+            background-color: #fa8100;
+            color: #fff;
+            width: 60px;
+            height: 60px;
+            border-radius: 50%;
+            font-size: 22px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            text-decoration: none;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+            z-index: 9999;
+            transition: 0.3s;
+        }
+
+        .call-float:hover {
+            background-color: #fa8100;
+            transform: scale(1.1);
+        }
+    </style>
+
+<!-- back to top start -->
+
     <!--===== PRELOADER STARTS =======-->
     {{-- <div class="preloader">
         <div class="loading-container">
