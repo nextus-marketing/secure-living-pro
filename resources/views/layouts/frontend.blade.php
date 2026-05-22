@@ -98,7 +98,7 @@
                                 <ul>
                                     <li><a href="/">Home <i class="fa-solid"></i></a></li>
                                     <li><a href="/#about">About Us <i class="fa-solid"></i></a></li>
-                                    <li><a href="/#contact">Contact Us <i class="fa-solid"></i></a></li>
+                                    <li><a href="/contact">Contact Us <i class="fa-solid"></i></a></li>
 
                                 </ul>
                             </div>
@@ -146,7 +146,7 @@
             <ul class="mobile-nav-list nav-list1">
                 <li><a href="/">Home </a></li>
                 <li><a href="/#about">About Us </a></li>
-                <li><a href="/#contact">Contact Us </a></li>
+                <li><a href="/contact">Contact Us </a></li>
             </ul>
 
             <div class="allmobilesection">
@@ -192,7 +192,7 @@
                         <ul>
                             <li><a href="/">Home </a></li>
                             <li><a href="/#about"> About Us  </a></li>
-                            <li><a href="/#contact">Contact US</a></li>
+                            <li><a href="/contact">Contact US</a></li>
                         </ul>
                     </div>
                 </div>
