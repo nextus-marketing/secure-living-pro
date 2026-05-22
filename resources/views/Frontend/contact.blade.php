@@ -34,7 +34,7 @@
                         <div class="number-address-area">
                             <div class="phone-number">
                                 <div class="img1">
-                                    <img src="public/frontend/my-img/icon" alt="">
+                                    <img src="/frontend/my-img/call-icons4.svg" alt="">
                                 </div>
                                 <div class="content">
                                     <p>Phone Number</p>
